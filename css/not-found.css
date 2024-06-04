@@ -1,0 +1,147 @@
+:root {
+    --primary: #D81324;
+    --secondary: #0B2154;
+    --light: #F2F2F2;
+    --dark: #111111;
+    --text: #596277;
+}
+.information {
+    width: 1519px;
+    height: 228.97px;
+
+
+
+}
+
+.information .container-information {
+    margin-top: 75px;
+    width: 1519px;
+    height: 228.97px;
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("../img/carousel-bg-2.jpg") center center no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#wrapper .content-information {
+
+    width: 1320px;
+    height: 228.97px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 48px 8px;
+
+}
+
+#wrapper .content-information h1 {
+    margin-bottom: 16px;
+    color: #f5f5f5;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 76.8px;
+    text-align: center;
+
+}
+
+#wrapper .content-information .list-breadcumb {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+#wrapper .content-information .list-breadcumb li {
+    list-style: none;
+}
+
+#wrapper .content-information .list-breadcumb a:not(a.active) {
+    color: #D81324;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+#wrapper .content-information .list-breadcumb a.active {
+    color: #f5f5f5;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+#wrapper .content-information .list-breadcumb span {
+    color: #f5f5f5;
+    padding: 0px 8px;
+}
+
+/* start not-found */
+.wp-not-found {
+    width: 1519px;
+    margin: 0px auto;
+    display: flex;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.wp-not-found .container-not-found {
+    width: 648px;
+    height: 402px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 48px 8px;
+}
+
+.wp-not-found .container-not-found h1 {
+    
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 96px;
+    text-align: center;
+    color: #0B2154;
+    margin: 8px 0px;
+}
+
+.wp-not-found .container-not-found p {
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+
+    color: #596277;
+
+    margin-bottom: 24px;
+}
+
+.wp-not-found .container-not-found button {
+    width: 244px;
+    height: 58px;
+    border: 1px solid #D81324;
+    padding: 17px 48.31px 17px 50px;
+    background-color: #D81324;
+    border-radius: 30px;
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+
+
+
+}
+.wp-not-found .container-not-found button:hover{
+    background-color: #b10d1b;
+    cursor: pointer;
+}

@@ -1,0 +1,2030 @@
+  @media screen and (max-width: 1920px) {
+      .wp-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us {
+          width: 100% !important;
+      }
+      
+
+      .container-information .content-information {
+          width: 100% !important;
+      }
+
+      .wp-not-found {
+          width: 100% !important;
+
+      }
+
+      .wp-not-found .container-not-found {
+          width: 100%;
+      }
+
+      .container-information {
+          width: 100% !important;
+      }
+
+      .wp-call-acion {
+          width: 100% !important;
+      }
+
+      .wp-call-acion .container-call-action {
+          display: flex;
+          justify-content: space-around;
+
+          width: 100% !important;
+      }
+
+      .wp-footer {
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .wp-footer .container-footer {
+          width: 100%;
+      }
+
+      .wp-footer .container-footer .list-box-footer {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+      }
+
+       .wp-footer .content-footer-child {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+      }
+
+      .wp-testimonial {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100% !important;
+      }
+
+      #wrapper {
+          width: 100% !important;
+          margin: 0px auto !important;
+      }
+
+      #header {
+
+          width: 100% !important;
+      }
+
+      #container {
+          width: 100% !important;
+
+      }
+
+      #content-carousel {
+          width: 100% !important;
+
+      }
+
+      #icon-menu {
+          display: none;
+      }
+
+      #main-menu-reponsive {
+          display: none;
+      }
+
+      .wp-service {
+          width: 100% !important;
+      }
+
+      .wp-fact {
+          width: 100% !important;
+      }
+
+      .wp-service-out {
+          width: 100% !important;
+      }
+
+      .wp-booking {
+          width: 100% !important;
+      }
+
+      .wp-technicians {
+          width: 100% !important;
+      }
+      .wp-about{
+        width: 100% !important;
+      }
+
+
+
+  }
+
+  @media screen and (max-width: 1320px) {
+
+      .wp-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us .list-about-us {
+          width: 100% !important;
+          display: flex !important;
+          justify-content: center !important;
+
+          align-items: center;
+          flex-wrap: wrap;
+      }
+     
+
+      .container-information {
+          width: 100% !important;
+      }
+
+      .container-information .content-information {
+          width: 100% !important;
+      }
+
+      .wp-not-found {
+          width: 100% !important;
+      }
+
+      .wp-not-found .container-not-found {
+          width: 100%;
+      }
+
+      .wp-footer {
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .wp-call-acion {
+          width: 100% !important;
+      }
+
+      .wp-call-acion .container-call-action {
+          display: flex;
+          justify-content: space-around;
+
+          width: 100% !important;
+      }
+
+      .wp-testimonial {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-booking .content-testimonial {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+          align-items: center;
+      }
+
+      #wrapper {
+          width: 100%;
+
+      }
+
+      #header {
+
+          width: 100%;
+      }
+
+      #container {
+          width: 100%;
+
+      }
+
+      #content-carousel {
+          width: 100%;
+
+      }
+
+      #img-bg-2 {
+          display: none;
+      }
+
+      .content-item {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+      }
+
+      .item-carousel .content-item span,
+      h1 {
+          text-align: center;
+      }
+
+      #icon-menu {
+          display: none;
+      }
+
+      #main-menu-reponsive {
+          display: none;
+      }
+
+      .wp-service .wp-content-service {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap !important;
+
+      }
+
+      .wp-service {
+          height: auto;
+          width: 100%;
+      }
+
+      .wp-about {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          height: auto;
+          align-items: center;
+      }
+
+      .wp-about .content-about {
+          width: 100%;
+          flex-direction: column !important;
+          display: flex;
+          justify-content: center !important;
+          align-items: center !important;
+          flex-wrap: wrap !important;
+          text-align: center;
+      }
+
+
+
+      .about-box-2 .title {
+          text-align: center;
+      }
+
+      .wp-fact {
+          width: 100%;
+      }
+
+      .wp-service-out {
+          width: 100%;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out .container-service-out {
+          width: 100%;
+      }
+
+      .title-service-out {
+          width: 100%;
+          text-align: center;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out .box-2 {
+          width: 100%;
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-booking {
+          width: 100%;
+      }
+
+      .wp-technicians {
+          width: 100%;
+      }
+
+      .wp-technicians .container-technicians {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+  }
+
+  /* Ipad ngang(1024 x 768) */
+  @media screen and (max-width: 1024px) {
+
+      .wp-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us .list-about-us {
+          width: 100% !important;
+          display: flex !important;
+          justify-content: center !important;
+
+          align-items: center;
+          flex-wrap: wrap;
+      }
+      .wp-about-us .container-about-us .list-about-us .item-about-us{
+        margin-top: 24px !important;
+      }
+      .wp-about-us .container-about-us .parent-about-us{
+       display: flex !important;
+       justify-content: center !important;
+       flex-wrap: wrap !important;
+        width: 100% !important;
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right{
+        width: 100% !important;        
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right form{
+        width: 100% !important;
+        display: flex !important;
+        justify-content: center !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+      }
+
+      .wp-about-us .container-about-us .parent-about-us .about-right form .name-email, input, textarea, select{
+        width: 100% !important;
+      }
+
+      .container-information {
+          width: 100% !important;
+      }
+
+      .container-information .content-information {
+          width: 100% !important;
+      }
+
+      .wp-not-found {
+          width: 100% !important;
+      }
+
+      .wp-not-found .container-not-found {
+          width: 100%;
+      }
+
+      .wp-footer {
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .wp-call-acion {
+          width: 100% !important;
+      }
+
+      .wp-call-acion .container-call-action {
+          display: flex;
+          justify-content: space-around;
+
+          width: 100% !important;
+      }
+
+      .wp-testimonial {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+          align-items: center;
+      }
+
+      #header {
+
+          display: none;
+      }
+
+      #container {
+          width: 100%;
+          top: 0px;
+          position: absolute;
+      }
+
+      #content-carousel {
+          width: 100%;
+
+      }
+
+      .item-carousel {
+          width: 100%;
+      }
+
+      #img-bg-2 {
+          display: none;
+      }
+
+      .item-carousel .content-item {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+      }
+
+      .item-carousel .content-item span,
+      h1 {
+          text-align: center;
+      }
+
+      #icon-menu {
+          display: block;
+      }
+
+      ul#main-menu {
+          display: none !important;
+      }
+
+      #more-menu-buy {
+          display: none;
+      }
+
+      #main-menu-reponsive {
+          display: none;
+      }
+
+      .wp-service .wp-content-service {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap !important;
+
+      }
+
+      .wp-service {
+          height: auto;
+          width: 100%;
+      }
+
+      .wp-about {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          height: auto;
+          align-items: center;
+      }
+
+      .wp-fact {
+          width: 100%;
+      }
+
+      .about-box-2 .title {
+          text-align: center;
+      }
+
+      .wp-fact .container-fact {
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out {
+          width: 100%;
+      }
+
+      .wp-booking {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap !important;
+          justify-content: space-around !important;
+      }
+
+      .wp-booking .container-booking .booking-left,
+      .booking-right {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form .row-form-1,
+      .row-form-2 {
+          align-items: center;
+          justify-content: center;
+          flex-wrap: wrap;
+          display: flex;
+
+          width: 100%;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form button {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form textarea {
+          width: 100% !important;
+      }
+
+      .wp-technicians {
+          width: 100%;
+      }
+
+      .wp-technicians .container-technicians {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-technicians .wp-item-technicians {
+          width: 100%;
+          margin-top: 16px;
+      }
+
+      .wp-technicians .title-technocians {
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial {
+          flex-direction: column;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item-child {
+          width: 100%;
+      }
+  }
+
+  /* Ipad dọc(768 x 1024) */
+  @media screen and (max-width: 768px) {
+
+      .wp-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us .list-about-us {
+          width: 100% !important;
+          display: flex !important;
+          justify-content: center !important;
+
+          align-items: center;
+          flex-wrap: wrap;
+      }
+      .wp-about-us .container-about-us .list-about-us .item-about-us{
+        margin-top: 24px !important;
+      }
+      .wp-about-us .container-about-us .parent-about-us{
+       display: flex !important;
+       justify-content: center !important;
+       flex-wrap: wrap !important;
+        width: 100% !important;
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right{
+        width: 100% !important;        
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right form{
+        width: 100% !important;
+        display: flex !important;
+        justify-content: center !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+      }
+
+      .wp-about-us .container-about-us .parent-about-us .about-right form .name-email, input, textarea, select{
+        width: 100% !important;
+      }
+
+      .container-information {
+          width: 100% !important;
+      }
+
+      .container-information .content-information {
+          width: 100% !important;
+      }
+
+      .wp-not-found {
+          width: 100% !important;
+      }
+
+      .wp-not-found .container-not-found {
+          width: 100%;
+      }
+
+      .wp-footer {
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .wp-call-acion {
+          width: 100% !important;
+      }
+
+      .wp-call-acion .container-call-action {
+          display: flex;
+          flex-direction: column !important;
+
+
+          width: 100% !important;
+      }
+
+      .wp-footer .container-footer {
+          width: 100%;
+      }
+
+      .wp-footer .container-footer .list-box-footer {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+      }
+
+      .wp-footer .content-footer-child {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+      }
+
+      .wp-testimonial {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+          align-items: center;
+      }
+
+      #header {
+
+          display: none;
+      }
+
+      #container {
+          width: 100%;
+          top: 0px;
+          position: absolute;
+
+      }
+
+      #content-carousel {
+          width: 100%;
+
+      }
+
+      #img-bg-2 {
+          display: none;
+      }
+
+      .item-carousel {
+          width: 100%;
+      }
+
+      .item-carousel .content-item {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+      }
+
+      .item-carousel .content-item span,
+      h1 {
+          text-align: center;
+      }
+
+      #icon-menu {
+          display: block;
+      }
+
+      ul#main-menu {
+          display: none !important;
+      }
+
+      #more-menu-buy {
+          display: none;
+      }
+
+      .wp-service .wp-content-service {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap !important;
+
+      }
+
+      .wp-service {
+          height: auto;
+          width: 100%;
+      }
+
+      .wp-about {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          height: auto;
+          align-items: center;
+      }
+
+      .wp-about .content-about {
+          width: 100%;
+          flex-direction: column !important;
+          display: flex;
+          justify-content: center !important;
+          align-items: center !important;
+          flex-wrap: wrap !important;
+          text-align: center;
+      }
+
+      .wp-about .content-about .about-box-1,
+      .about-box-2 {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+          flex-direction: column;
+      }
+
+
+      .about-box-2 .title {
+          text-align: center;
+      }
+
+      .wp-fact {
+          width: 100%;
+      }
+
+      .wp-fact .container-fact {
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out {
+          width: 100%;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out .container-service-out {
+          width: 100%;
+      }
+
+      .title-service-out {
+          width: 100%;
+          text-align: center;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out .box-2 {
+          width: 100%;
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-booking {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap !important;
+          justify-content: space-around !important;
+      }
+
+      .wp-booking .container-booking .booking-left,
+      .booking-right {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form .row-form-1,
+      .row-form-2 {
+          align-items: center;
+          justify-content: center;
+          flex-wrap: wrap;
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form .row-form-1 input:first-child {
+          margin-right: 0px;
+      }
+
+      .row-form-2 select#service {
+          margin-right: 0px;
+      }
+
+
+      .wp-booking .container-booking .booking-right .container-form button {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form textarea {
+          width: 100% !important;
+      }
+
+      .wp-technicians {
+          width: 100%;
+      }
+
+      .wp-technicians .container-technicians {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-technicians .wp-item-technicians {
+          width: 100%;
+          margin-top: 16px;
+      }
+
+      .wp-technicians .title-technocians {
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial {
+          flex-direction: column;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-top: 48px;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .list-button {
+          margin-top: 48px;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item-child {
+          width: 100%;
+      }
+  }
+
+  /* Table nhỏ(480 x 640) */
+  @media screen and (max-width: 480px) {
+
+      .wp-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us .list-about-us {
+          width: 100% !important;
+          display: flex !important;
+          justify-content: center !important;
+
+          align-items: center;
+          flex-wrap: wrap;
+      }
+      .wp-about-us .container-about-us .list-about-us .item-about-us{
+        margin-top: 24px !important;
+      }
+      .wp-about-us .container-about-us .parent-about-us{
+       display: flex !important;
+       justify-content: center !important;
+       flex-wrap: wrap !important;
+        width: 100% !important;
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right{
+        width: 100% !important;        
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right form{
+        width: 100% !important;
+        display: flex !important;
+        justify-content: center !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+      }
+
+      .wp-about-us .container-about-us .parent-about-us .about-right form .name-email, input, textarea, select{
+        width: 100% !important;
+      }
+
+      .container-information {
+          width: 100% !important;
+      }
+
+      .container-information .content-information {
+          width: 100% !important;
+      }
+
+      .wp-not-found {
+          width: 100% !important;
+      }
+
+      .wp-not-found .container-not-found {
+          width: 100%;
+      }
+
+      .wp-footer {
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .wp-call-acion {
+          width: 100% !important;
+      }
+
+      .wp-call-acion .container-call-action {
+          display: flex;
+          flex-direction: column !important;
+          width: 100% !important;
+      }
+
+      .wp-footer .container-footer {
+          width: 100%;
+      }
+
+      .wp-footer .container-footer .list-box-footer {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+      }
+
+      .wp-footer .content-footer-child {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+      }
+
+      .wp-testimonial {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+          align-items: center;
+      }
+
+      #header {
+          display: flex;
+      }
+
+      #container {
+          width: 100%;
+          top: 0px;
+          position: absolute;
+
+      }
+
+      #content-carousel {
+          width: 100%;
+
+      }
+
+      #img-bg-2 {
+          display: none;
+      }
+
+      .item-carousel {
+          width: 100%;
+      }
+
+      .item-carousel .content-item {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+      }
+
+      .item-carousel .content-item span,
+      h1 {
+          text-align: center;
+      }
+
+      #icon-menu {
+          display: block;
+      }
+
+      ul#main-menu {
+          display: none !important;
+      }
+
+      #more-menu-buy {
+          display: none;
+      }
+
+      .wp-service .wp-content-service {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap !important;
+
+      }
+
+      .wp-service {
+          height: auto;
+          width: 100%;
+      }
+
+      .wp-about {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          height: auto;
+          align-items: center;
+      }
+
+      .wp-about .content-about {
+          width: 100%;
+          flex-direction: column !important;
+          display: flex;
+          justify-content: center !important;
+          align-items: center !important;
+          flex-wrap: wrap !important;
+          text-align: center;
+      }
+
+      .wp-about .content-about .about-box-1,
+      .about-box-2 {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+          flex-direction: column;
+      }
+
+
+      .about-box-2 .title {
+          text-align: center;
+      }
+
+      .wp-fact {
+          width: 100%;
+      }
+
+      .wp-fact .container-fact {
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out {
+          width: 100%;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out .container-service-out {
+          width: 100%;
+      }
+
+      .title-service-out {
+          width: 100%;
+          text-align: center;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out .box-2 {
+          width: 100%;
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-booking {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap !important;
+          justify-content: space-around !important;
+      }
+
+      .wp-booking .container-booking .booking-left,
+      .booking-right {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+
+      }
+
+      .wp-booking .container-booking .booking-right .container-form button {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form textarea {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form .row-form-1 input:first-child {
+          margin-right: 0px;
+      }
+
+      .row-form-2 select#service {
+          margin-right: 0px;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form .row-form-1,
+      .row-form-2 {
+          align-items: center;
+          justify-content: center;
+          flex-wrap: wrap;
+          display: flex;
+          flex-direction: column;
+
+          width: 100%;
+          box-sizing: border-box;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form button {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form textarea {
+          width: 100% !important;
+      }
+
+      .wp-technicians {
+          width: 100%;
+      }
+
+      .wp-technicians .container-technicians {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-technicians .wp-item-technicians {
+          width: 100%;
+          margin-top: 16px;
+      }
+
+      .wp-technicians .title-technocians {
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial {
+          flex-direction: column;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-top: 48px;
+
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .list-button {
+          margin-top: 48px;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item-child {
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item .list-testimonial-item {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-direction: column !important;
+          flex-wrap: wrap !important;
+      }
+  }
+
+  /* Iphone(480 x 640) */
+  @media screen and (max-width: 320px) {
+
+      .wp-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us .list-about-us {
+          width: 100% !important;
+          display: flex !important;
+          justify-content: center !important;
+
+          align-items: center;
+          flex-wrap: wrap;
+      }
+      .wp-about-us .container-about-us .list-about-us .item-about-us{
+        margin-top: 24px !important;
+      }
+      .wp-about-us .container-about-us .parent-about-us{
+       display: flex !important;
+       justify-content: center !important;
+       flex-wrap: wrap !important;
+        width: 100% !important;
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right{
+        width: 100% !important;        
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right form{
+        width: 100% !important;
+        display: flex !important;
+        justify-content: center !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+      }
+
+      .wp-about-us .container-about-us .parent-about-us .about-right form .name-email, input, textarea, select{
+        width: 100% !important;
+      }
+
+      .container-information {
+          width: 100% !important;
+      }
+
+      .container-information .content-information {
+          width: 100% !important;
+      }
+
+      .wp-not-found {
+          width: 100% !important;
+      }
+
+      .wp-not-found .container-not-found {
+          width: 100%;
+      }
+
+      .wp-footer {
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .wp-call-acion {
+          width: 100% !important;
+      }
+
+      .wp-call-acion .container-call-action {
+          display: flex;
+          flex-direction: column !important;
+          width: 100% !important;
+      }
+
+      .wp-footer .container-footer {
+          width: 100%;
+      }
+
+      .wp-footer .container-footer .list-box-footer {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+      }
+
+      .wp-footer .content-footer-child {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+      }
+
+      .wp-testimonial {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+          flex-direction: column;
+
+          align-items: center;
+
+
+      }
+
+      #header {
+          display: none;
+      }
+
+      #container {
+          width: 100%;
+          top: 0px;
+          position: absolute;
+
+      }
+
+      #content-carousel {
+          width: 100%;
+
+      }
+
+      #img-bg-2 {
+          display: none;
+      }
+
+      .item-carousel {
+          width: 100%;
+      }
+
+      .item-carousel .content-item {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+      }
+
+      .item-carousel .content-item span,
+      h1 {
+          text-align: center;
+      }
+
+      #icon-menu {
+          display: block;
+      }
+
+      ul#main-menu {
+          display: none !important;
+      }
+
+      #more-menu-buy {
+          display: none;
+      }
+
+      .wp-service .wp-content-service {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap !important;
+
+      }
+
+      .wp-service {
+          height: auto;
+          width: 100%;
+      }
+
+      .wp-about {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          height: auto;
+          align-items: center;
+      }
+
+      .wp-about .content-about {
+          width: 100%;
+          flex-direction: column !important;
+          display: flex;
+          justify-content: center !important;
+          align-items: center !important;
+          flex-wrap: wrap !important;
+          text-align: center;
+      }
+
+      .wp-about .content-about .about-box-1,
+      .about-box-2 {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+          flex-direction: column;
+      }
+
+
+      .about-box-2 .title {
+          text-align: center;
+      }
+
+      .wp-fact {
+          width: 100%;
+      }
+
+      .wp-fact .container-fact {
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out {
+          width: 100%;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out .container-service-out {
+          width: 100%;
+      }
+
+      .title-service-out {
+          width: 100%;
+          text-align: center;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out .box-2 {
+          width: 100%;
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-booking {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap !important;
+          justify-content: space-around !important;
+      }
+
+      .wp-booking .container-booking .booking-left,
+      .booking-right {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form button {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form textarea {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form .row-form-1 input:first-child {
+          margin-right: 0px;
+      }
+
+      .row-form-2 select#service {
+          margin-right: 0px;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form .row-form-1,
+      .row-form-2 {
+          align-items: center;
+          justify-content: center;
+          flex-wrap: wrap;
+          display: flex;
+          flex-direction: column;
+
+          width: 100%;
+          box-sizing: border-box;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form button {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form textarea {
+          width: 100% !important;
+      }
+
+      .wp-technicians {
+          width: 100%;
+      }
+
+      .wp-technicians .container-technicians {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-technicians .wp-item-technicians {
+          width: 100%;
+          margin-top: 16px;
+      }
+
+      .wp-technicians .title-technocians {
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial {
+          flex-direction: column;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-top: 48px;
+
+
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .list-button {
+          margin-top: 48px;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item-child {
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item .list-testimonial-item {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-direction: column !important;
+          flex-wrap: wrap !important;
+      }
+  }
+
+  /* Smart phone nhỏ */
+  @media screen and(max-width: 240px) {
+
+      .wp-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us {
+          width: 100% !important;
+      }
+
+      .wp-about-us .container-about-us .list-about-us {
+          width: 100% !important;
+          display: flex !important;
+          justify-content: center !important;
+
+          align-items: center;
+          flex-wrap: wrap;
+      }
+      .wp-about-us .container-about-us .list-about-us .item-about-us{
+        margin-top: 24px !important;
+      }
+      .wp-about-us .container-about-us .parent-about-us{
+       display: flex !important;
+       justify-content: center !important;
+       flex-wrap: wrap !important;
+        width: 100% !important;
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right{
+        width: 100% !important;        
+
+      }
+      .wp-about-us .container-about-us .parent-about-us .about-right form{
+        width: 100% !important;
+        display: flex !important;
+        justify-content: center !important;
+        justify-content: center !important;
+        flex-direction: column !important;
+      }
+
+      .wp-about-us .container-about-us .parent-about-us .about-right form .name-email, input, textarea, select{
+        width: 100% !important;
+      }
+
+      .container-information {
+          width: 100% !important;
+      }
+
+      .container-information .content-information {
+          width: 100% !important;
+      }
+
+      .wp-not-found {
+          width: 100% !important;
+      }
+
+      .wp-not-found .container-not-found {
+          width: 100%;
+      }
+
+      .wp-footer {
+          width: 100%;
+          overflow: hidden;
+      }
+
+      .wp-call-acion {
+          width: 100% !important;
+      }
+
+      .wp-call-acion .container-call-action {
+          display: flex;
+          flex-direction: column !important;
+          width: 100% !important;
+      }
+
+      .wp-footer .container-footer {
+          width: 100%;
+      }
+
+      .wp-footer .container-footer .list-box-footer {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+      }
+
+      .wp-footer .content-footer-child {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+      }
+
+      .wp-testimonial {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      #header {
+
+          display: none;
+
+      }
+
+      #container {
+          width: 100%;
+          top: 0px;
+          position: absolute;
+
+      }
+
+      #content-carousel {
+          width: 100%;
+
+
+      }
+
+      #img-bg-2 {
+          display: none;
+      }
+
+      .item-carousel {
+          width: 100%;
+      }
+
+      .item-carousel .content-item {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+      }
+
+      .item-carousel .content-item span,
+      h1 {
+          text-align: center;
+      }
+
+      #icon-menu {
+          display: block;
+      }
+
+      ul#main-menu {
+          display: none !important;
+      }
+
+      #more-menu-buy {
+          display: none;
+      }
+
+      .wp-service .wp-content-service {
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap !important;
+
+      }
+
+      .wp-service {
+          height: auto;
+          width: 100%;
+      }
+
+      .wp-about {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          height: auto;
+          align-items: center;
+      }
+
+      .wp-about .content-about {
+          width: 100%;
+          flex-direction: column !important;
+          display: flex;
+          justify-content: center !important;
+          align-items: center !important;
+          flex-wrap: wrap !important;
+          text-align: center;
+      }
+
+      .wp-about .content-about .about-box-1,
+      .about-box-2 {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-wrap: wrap;
+          flex-direction: column;
+      }
+
+
+      .about-box-2 .title {
+          text-align: center;
+      }
+
+      .wp-fact {
+          width: 100%;
+      }
+
+      .wp-fact .container-fact {
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out {
+          width: 100%;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-service-out .container-service-out {
+          width: 100%;
+      }
+
+      .title-service-out {
+          width: 100%;
+          text-align: center;
+      }
+
+      .wp-service-out .container-service-out .wp-box-service-out .box-2 {
+          width: 100%;
+          display: flex;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-booking {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap !important;
+          justify-content: space-around !important;
+      }
+
+      .wp-booking .container-booking .booking-left,
+      .booking-right {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form {
+          width: 100%;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form button {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form textarea {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form .row-form-1 input:first-child {
+          margin-right: 0px;
+      }
+
+      .row-form-2 select#service {
+          margin-right: 0px;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form form .row-form-1,
+      .row-form-2 {
+          align-items: center;
+          justify-content: center;
+          flex-wrap: wrap;
+          display: flex;
+          flex-direction: column;
+
+          width: 100%;
+          box-sizing: border-box;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form button {
+          width: 100% !important;
+      }
+
+      .wp-booking .container-booking .booking-right .container-form textarea {
+          width: 100% !important;
+      }
+
+      .wp-technicians {
+          width: 100%;
+      }
+
+      .wp-technicians .container-technicians {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-technicians .wp-item-technicians {
+          width: 100%;
+          margin-top: 16px;
+      }
+
+      .wp-technicians .title-technocians {
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial {
+          flex-direction: column;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 100%;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial {
+          width: 100%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin-top: 48px;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .list-button {
+          margin-top: 48px;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item {
+
+          width: 100%;
+          display: flex;
+          justify-content: space-around;
+          flex-wrap: wrap;
+
+          align-items: center;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item .list-testimonial-item {
+          display: flex;
+          width: 100%;
+          justify-content: space-around !important;
+          flex-direction: column !important;
+          flex-wrap: wrap !important;
+      }
+
+      .wp-testimonial .container-testimonial .content-testimonial .testimonial-item-child {
+          width: 100%;
+      }
+  }
